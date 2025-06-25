@@ -4,7 +4,7 @@
 
 MediLink is a **pioneering MERN stack platform engineered to comprehensively orchestrate medical appointments and digital health records**, delivering a **fortified web interface with intelligent OCR integration**. This system is designed to streamline the interaction between patients and healthcare providers by centralizing critical health management functionalities.
 
-## Features ✨
+## ✨Features 
 
 MediLink provides a robust set of features for both patients and doctors:
 
