@@ -1,0 +1,89 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color:lightblue;
+    border: border-box;
+}
+label {
+    font-size: 20px;
+    color: darkblue;
+    font-weight: 700;
+    background-color: white;
+}
+#email {
+    padding: 4px;
+    width: 290px;
+    background-color: white;
+    border: 2px solid black;
+}
+#password {
+    padding: 4px;
+    width: 290px;
+    background-color: white;
+    border: 2px solid black;
+}
+form {
+    display: inline-block;
+    border: 5px solid darkblue;
+    width: 300px;
+    height: 450px;
+    padding-top: 10px;
+    padding-left: 60px;
+    padding-right: 50px;
+    margin-left: 600px;
+    margin-top: 120px;
+    border-radius: 10%;
+    background-color: white;
+}
+.img {
+    width: 200px;
+    height: 100px;
+    background-image: url("/Project/Medilink/Images/Medilinnk\ Logo-\ canva.png");
+    background-size: cover;
+    margin-left: 50px;
+}
+button {
+    background-color: darkblue;
+    color: aqua;
+    padding: 5px;
+    width: 300px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+.image {
+    background-color: white;
+}
+.forgot,a {
+    background-color: white;
+    text-align: right;
+    font-weight: 900px;
+    color: darkblue;
+    text-decoration: none;
+}
+.reg {
+    background-color: white;
+    font-weight: 900;
+    text-align: center;
+}
+p {
+    background-color: white;
+    font-size: 15px;
+    padding-top: 10px;
+}
+.forgot {
+    font-size: 15px;
+    font-weight: 500;
+}
+option {
+    font-size: 15px;
+    font-weight: 500;
+}
+select {
+    font-size: 15px;
+    background-color: white;
+    font-weight: 500;
+    border: 2px solid black;
+    width: 300px;
+    padding: 4px;
+    width: 300px;
+}
